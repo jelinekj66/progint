@@ -1,4 +1,4 @@
-text zadaný vyučujícím
-Under development 
-wow uz to chapu
-test chyby
+text zadaný vyučujícím  
+Under development   
+wow uz to chapu  
+test chyby  
