@@ -27,3 +27,8 @@ flowchart TD
     odd --> count
 ```
 diagram z přednášky
+text zadaný vyučujícím  
+Under development   
+wow uz to chapu  
+test chyby  
+
