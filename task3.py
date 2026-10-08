@@ -1,0 +1,8 @@
+word = (input("zadejte slovo: "))
+print(f"slovo: {word}")
+print(f"počet znaků: {len(word)}")
+print(f"první písmeno: {word[0]}")
+print(f"poslední písmeno: {word[-1]}")
+print(f"velkými písmeny: {word.upper()}")
+print(f"pozpátku: {word[::-1]}")
+print(f"palindrom: {bool(word.lower() == word[::-1].lower())}")
